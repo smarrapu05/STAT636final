@@ -1,0 +1,1 @@
+This is a collaborative work between myself (Saketh Marrapu) and Matthew Russell to analyze the network statistical properties of proteins. My work focused on the implementation of clustering and spectral methods to identify differences between Myoglobin and Hemoglobin. A video presentation can be given upon request, however is too large for github.
